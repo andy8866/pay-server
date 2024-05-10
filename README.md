@@ -1,6 +1,7 @@
 # pay-server
 区块链钱包后台服务-rust
 
+邮箱：Andy.8866@outlook.com
 
 # Rust为服务器的钱包系统，安全、承载高、并发高
 
